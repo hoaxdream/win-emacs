@@ -1,0 +1,7 @@
+auto-save-list/
+.emacs.d/elpa/
+.emacs.d/init.el
+.emacs.d/network-security.data
+.emacs.d/package-quickstart.el
+.emacs.d/server/
+org/
