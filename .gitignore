@@ -4,4 +4,5 @@ auto-save-list/
 .emacs.d/network-security.data
 .emacs.d/package-quickstart.el
 .emacs.d/server/
+.emacs.d/recentf
 org/
