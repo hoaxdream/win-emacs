@@ -162,9 +162,9 @@
   :config
   (setq org-src-preserve-indentation t) ;; do not indent 2 spaces after RET
   (setq org-src-tab-acts-natively t)
-  (setq org-agenda-files '("c:/Home/org/personal.org"
-						   "c:/Home/org/task.org"
-						   "c:/Home/org/notes.org")))
+  (setq org-agenda-files '("~/org/personal.org"
+						   "~/org/task.org"
+						   "~/org/notes.org")))
 #+END_SRC
 
 ** Org Babel
